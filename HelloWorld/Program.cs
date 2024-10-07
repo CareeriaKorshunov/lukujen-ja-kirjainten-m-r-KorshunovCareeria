@@ -1,10 +1,9 @@
-﻿namespace HelloWorld
+namespace HelloWorld
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-           {
             // Pyydetään käyttäjää syöttämään merkkijono
             Console.WriteLine("Anna merkkijono, jossa on kirjaimia ja numeroita: ");
             string syote = Console.ReadLine();
